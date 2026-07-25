@@ -16,7 +16,7 @@
     "autoprefixer": "latest",
     "postcss": "latest",
     "tailwindcss": "^3.4.1",
-    "typescript": "latest",
+    "typescript": "~5.5.4",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest"
