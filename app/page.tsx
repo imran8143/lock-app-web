@@ -1,6 +1,5 @@
 "use client";
-import { useState } from "node:react"; // Note: standard React state hooks below
-import React, { useEffect } from "react";
+import { useState } from "react";
 
 export default function LandingPage() {
   const [email, setEmail] = useState("");
@@ -124,7 +123,7 @@ export default function LandingPage() {
       {/* Footer */}
       <footer className="border-t border-green-900/30 py-8 text-center text-xs text-zinc-600 tracking-widest">
         SYSTEM POWERED BY FIRST PRINCIPLES THINKING // ALL RIGHTS RESERVED
-      </div>
+      </footer>
 
     </div>
   );
